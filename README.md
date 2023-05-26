@@ -2,8 +2,6 @@
 
 This is a classic Pong game implemented in Python using the Turtle module. The game allows two players to compete against each other by moving paddles up and down to hit a ball back and forth across the screen. The objective is to score points by making the ball pass the opponent's paddle.
 
-![Gameplay Screenshot](screenshot.png)
-
 ## Installation
 
 1. Clone the repository:
